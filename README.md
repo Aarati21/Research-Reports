@@ -1,2 +1,2 @@
 # Research-Reports
-It contains the reports of 2 projects that I am currently working on
+It contains the reports of my research as part of the Safe AI Lab and the Bot Intelligence Group
