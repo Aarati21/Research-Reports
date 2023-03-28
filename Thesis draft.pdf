@@ -1,0 +1,7 @@
+Contains the reports of my research as part of the Safe AI Lab and the Bot Intelligence Group
+
+[Advanced decision making by combining Hamilton Jacobi reachability and path planning for cyclist vehicle navigation](https://github.com/Aarati21/Research-Reports/blob/master/Thesis%20draft.pdf)
+
+Navigating a virtual agent at traffic intersections (roundabouts) - SafeAILabReport
+Trained a maximum entropy inverse reinforcement learning algorithm to navigate a virtual agent by using the Stanford drone dataset as ground truth
+Demonstrated superiority of the latter over a Q network at collision avoidance and navigation
